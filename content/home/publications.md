@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -66,6 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+[Pinsky, M. L., Selden, R. L., & Kitchel, Z. J. (2019). Climate-Driven Shifts in Marine Species Ranges: Scaling from Organisms to Communities. Annual review of marine science, 12.](https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-010419-010916)

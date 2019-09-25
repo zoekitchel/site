@@ -18,18 +18,31 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Statistical Modeling"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fish"
+  icon_pack ="fas"
+  name = "Scientific Diving"
+  
+[[feature]]
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Curriculum Development"
+  
+[[feature]]
+  icon = "google-drive"
+  icon_pack = "fab"
+  name = "Google Drive"
+  
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Science Communication"
+  
 
 +++
