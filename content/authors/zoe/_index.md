@@ -9,12 +9,12 @@ education:
     institution: Yale University
     year: 2015
     
-email: ""
+email: "zoe.kitchel[at]rutgers.edu"
 interests:
-- Ecology
-- Evolution
-- Climate Change 
-- Community Resilience
+#- Ecology
+#- Evolution
+#- Climate Change 
+#- Community Resilience
 name: Zoë J. Kitchel
 organizations:
 - name: Rutgers University
