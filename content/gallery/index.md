@@ -8,5 +8,5 @@ weight = 66  # Order that this section will appear.
 title = "Gallery"
 subtitle = "Photos related, and unrelated to my research. Enjoy!"
 +++
-{{< gallery album = "gallery" >}}
+{{< load-photoswipe >}}
 
