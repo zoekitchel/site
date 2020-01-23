@@ -8,5 +8,8 @@ weight = 66  # Order that this section will appear.
 title = "Gallery"
 subtitle = "Photos related, and unrelated to my research. Enjoy!"
 +++
-{{< load-photoswipe >}}
-
+{{< gallery >}}
+{{< figure link="/img/homepage/sydney-harbour.jpg" caption="Sydney Harbour" >}}
+{{< figure link="/img/homepage/cc_jeepers.jpg" caption="Capital Chorus" >}}
+{{< figure link="/img/arduino/test-setup.jpg" caption="Arduino test setup" >}}
+{{< /gallery >}}
