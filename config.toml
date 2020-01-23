@@ -73,3 +73,14 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = ["blue.css"]
+
+[menu]
+  [[menu.main]]
+  identifier = "top"
+  name = "Home"
+  url = "/"
+  [[menu.main]]
+  identifier = "photos"
+  name = "Photo gallery"
+  url = "/photos/"
+  
